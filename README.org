@@ -1,0 +1,3 @@
+* install emacs shopping
+
+一键安装最新版emacs。免得某些操作系统无法直接安装。
